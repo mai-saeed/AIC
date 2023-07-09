@@ -1,0 +1,4 @@
+arabert
+sentencepiece
+nltk
+protobuf==3.20.*
